@@ -4,7 +4,7 @@ function Signin() {
   return (
     <main className="min-h-screen flex items-center justify-center bg-gray-100 px-4 flex-col">
       
-      <div className="bg-linear-to-b from-red-600 to-white shadow-xl rounded-2xl p-8 w-full max-w-md flex flex-col gap-6 relative bottom-25 md:top-0">
+      <div className="bg-linear-to-b from-red-600 to-white shadow-xl rounded-2xl p-8 w-full max-w-md flex flex-col gap-6 mt-2 md:mt-0">
 
         <h1 className="text-3xl font-bold text-center">
           Sign In
