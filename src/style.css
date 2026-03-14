@@ -1,0 +1,12 @@
+.navbar {
+  background: black;
+  color: white;
+  display: flex;
+  gap: 15px;
+  padding: 10px;
+}
+
+.navbar a {
+  color: white;
+  text-decoration: none;
+}
